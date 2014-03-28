@@ -1,5 +1,6 @@
 require_relative 'my_solution'
 
+
 describe 'get_grade' do
   let(:arrayA) { [100,90,100,99,99]}
   let(:arrayB) { [80,90,80,89,98]}
